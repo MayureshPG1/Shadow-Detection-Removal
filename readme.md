@@ -22,7 +22,7 @@ Following are the utility classes:
 - ShadowRemover: Removes detected shadows by adding difference between average background intensity to current pixel.
 - ConfigParam: Contains parameters which needs to fine tuned as per input video.
 
-* Depending on the input stream there is need to fine tune config parameters. Code can not work directly on all kind of input streams*
+*Depending on the input stream there is need to fine tune config parameters. Code can not work directly on all kind of input streams*
 
 # Usage
 - Run the executable.
